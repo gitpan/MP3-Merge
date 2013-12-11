@@ -15,7 +15,7 @@ use File::Basename;
 use MPEG::Audio::Frame;
 use Archive::Zip qw(:ERROR_CODES :CONSTANTS);
 
-our $VERSION = '1.0';
+our $VERSION = '1.01';
 #==========================================================
 sub new {
 my ($class) = @_;
